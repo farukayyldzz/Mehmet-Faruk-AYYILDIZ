@@ -48,7 +48,7 @@ Recommended PHP version: 7.4+
 
 Open the project in your browser:
 
-http://localhost/project-folder/
+https://farukayyildiz.xn--kltrilerimdrl-wobchbca31eu5b.com/
 
 Notes
 
@@ -114,7 +114,7 @@ Dosyaları PHP destekli bir sunucuya yükleyin.
 
 Tarayıcıdan projeyi açın:
 
-http://localhost/proje-klasoru/
+https://farukayyildiz.xn--kltrilerimdrl-wobchbca31eu5b.com/
 
 Notlar
 
